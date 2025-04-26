@@ -9,4 +9,4 @@ Scribe is a minimalist Python program that brings a Cartesian grid to life in th
 - Displays the dot’s path in real-time in the terminal.
 - Lightweight, using only Python for easy setup.
   
-##Technologies: Pure Python, terminal-based interface.
+**Technologies:** Pure Python, terminal-based interface.
