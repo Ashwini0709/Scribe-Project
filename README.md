@@ -4,8 +4,8 @@ Scribe is a minimalist Python program that brings a Cartesian grid to life in th
 
 # Key Features:
 
-A dot automatically traces shapes on a text-based Cartesian grid.
-Creates patterns like squares, waves, or lines without user input.
-Displays the dot’s path in real-time in the terminal.
-Lightweight, using only Python for easy setup.
-Technologies: Pure Python, terminal-based interface.
+- A dot automatically traces shapes on a text-based Cartesian grid.
+- Creates patterns like squares, waves, or lines without user input.
+- Displays the dot’s path in real-time in the terminal.
+- Lightweight, using only Python for easy setup.
+- Technologies: Pure Python, terminal-based interface.
